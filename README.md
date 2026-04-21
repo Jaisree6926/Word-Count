@@ -34,7 +34,6 @@ print("Number of words={}".format(num_words))
 ### OUTPUT:
  ### program output:
 
-![image](https://github.com/RahiniAchudhan/Word-Count/assets/145742838/e2fa5efe-e43b-4737-b6d3-617ed66eaa97)
 ![image](https://github.com/RahiniAchudhan/Word-Count/assets/145742838/f76b2dbb-f329-4492-9cca-ba42133077c6)
 
 
